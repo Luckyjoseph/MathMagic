@@ -11,6 +11,7 @@ Whether you need to perform addition, subtraction, multiplication, or division, 
 
 **Installation**
 **Prerequisites**
+
 - Android Studio: Ensure you have the latest version of Android Studio installed.
 - Kotlin: This app is developed in Kotlin, so make sure your environment supports Kotlin development.
 
@@ -23,12 +24,15 @@ git clone https://github.com/luckyjoseph/mathmagic.git
 3. Build the project and run it on an emulator or physical device.
 
 **Usage**
+
 Simply launch the app, and you can start performing calculations right away. The app supports all basic arithmetic operations. Just enter the numbers and press the corresponding operation button.
 
 **Contributing**
+
 Contributions are welcome! If you find any bugs or have suggestions for new features, feel free to open an issue or submit a pull request.
 
 **Steps to Contribute**
+
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix:
 git checkout -b feature-name
@@ -42,6 +46,7 @@ git push origin feature-name
 5. Open a pull request and describe the changes you’ve made.
 
 **License**
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgements
